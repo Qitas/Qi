@@ -1,7 +1,7 @@
-# [bolg](https://github.com/qitas/bolg) 
+# [GitHub Pages](https://github.com/Qitas/Qitas.github.io) 
 ### qitas@qitas.cn
 
-for Qitas.github.io
+GitHub Pages for Qitas.GitHub.io
 
 [![sites](http://182.61.61.133/link/resources/head.png)](http://www.qitas.cn) 
 

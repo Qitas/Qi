@@ -1,4 +1,3 @@
-# [www.qitas.cn](https://github.com/qitas/qitas)
+# [www.qitas.cn](http://www.qitas.cn)
 
-主页
 ### 年轮在骨，厚积于芯
